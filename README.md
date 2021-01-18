@@ -1,1 +1,1 @@
-# Ba-l-Liste-ile-metinden-kelime-sayma
+# Bagli-Liste-ile-metinden-kelime-sayma

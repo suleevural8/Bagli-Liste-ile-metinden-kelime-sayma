@@ -1,0 +1,1 @@
+# Ba-l-Liste-ile-metinden-kelime-sayma

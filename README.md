@@ -1,1 +1,1 @@
-# Bagli-Liste-ile-metinden-kelime-sayma
+# Counting word by using LinkedList
